@@ -141,7 +141,7 @@
     },
     "dkuProperties": []
   },
-  "name": "test",
+  "name": "test (test_branch1)",
   "projectStatus": "Sandbox",
   "metrics": {
     "probes": [],
@@ -205,7 +205,7 @@
     },
     "lastModifiedOn": 1746626470721
   },
-  "shortDesc": "The project *test* was created by test2 on May 07th 2025",
+  "shortDesc": "The project *test* was created by test2 on May 07th 2025\nThe project *TEST_TEST_BRANCH1* was copied from *TEST* by Ismayil home on May 12th 2025",
   "tags": [],
   "customFields": {},
   "checklists": {
